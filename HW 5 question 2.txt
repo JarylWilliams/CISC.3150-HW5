@@ -1,0 +1,35 @@
+ 
+	A) The overloaded method call() inside Dog class executed and the ouput is  "Woof, woof, woof!". This is an Example of overloading.
+	
+
+
+	B) The overrided method toString() inside Cat class is executed and the output is "I'm a cat, go away!". This is an example of Overriding.
+	
+
+
+	C) What: This is an error, Object doesn't have method call(). The output is error and this is an example of an error.
+	
+
+
+	D) The A method from Object class is called and the output is Pet@(address). The is example of polymorphism.
+	
+
+
+	 E) The method call() inside Dog class executed and the output is "woof!". This is an example of polymorphism.
+	
+
+
+	F) The overloaded method toString() inside Cat class executed and the output is "Come here, kitty? Don't waste my time."
+	   This is an example of overloading.
+
+	G) This is an Error, the Cat class doesn't implement call() method because it accepts integer arguments. The output is error and this is an
+	   example of an error.
+	
+
+	H) The Inherited method feet(), inside Dog class is executed and the output is four. The is an example of polymorphism. 
+	
+
+
+	I) This will not compile, Pet doesn't have call() method that accepts int arguments. The output will be an error and this is an example
+           of an error.
+	

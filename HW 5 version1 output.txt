@@ -1,0 +1,18 @@
+Microsoft Windows [Version 10.0.16299.248]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd Version1Carlo
+
+C:\Users\Jaryl\Desktop\Version1Carlo>cd src
+
+C:\Users\Jaryl\Desktop\Version1Carlo\src>javac Version1Carlo.java
+
+C:\Users\Jaryl\Desktop\Version1Carlo\src>java Version1Carlo
+Please enter the number of dots:
+1000000000
+The value of Pi is: 3.141586328
+67174
+
+C:\Users\Jaryl\Desktop\Version1Carlo\src>

@@ -1,0 +1,16 @@
+Microsoft Windows [Version 10.0.16299.248]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd Version2Carlo
+
+C:\Users\Jaryl\Desktop\Version2Carlo>cd src
+
+C:\Users\Jaryl\Desktop\Version2Carlo\src>javac Version2Carlo.java
+
+C:\Users\Jaryl\Desktop\Version2Carlo\src>java Version2Carlo
+The value of Pi is , 3.141567628
+64601
+
+C:\Users\Jaryl\Desktop\Version2Carlo\src>
